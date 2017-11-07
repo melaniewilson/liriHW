@@ -34,6 +34,7 @@ var getMyTweets = function() {
   });
 };
 
+
 var getMeSpotify = function(songName) {
 
   if (songName === undefined) {
